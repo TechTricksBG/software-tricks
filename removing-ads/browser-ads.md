@@ -12,14 +12,16 @@
 ![Примерен процес за инсталиране на разширение на компютър](./resources/example-installing-an-extension-firefox.png)
 Кликаме на бутона и чакаме да се изтегли. Това е!
 
-## 🔗 **Ресурси за изтегляне на uBlock Origin**
+## 🔗 **Ресурси за изтегляне и документация на uBlock Origin**
 **❗ ВНИМАНИЕ: ВИНАГИ изтегляйте разширението от официалните линкове на uBlock Origin. Не носим отговорност, ако се заразите от злонамерено разширение от лош линк!**<br>
 **Mozilla Firefox**: https://addons.mozilla.org/addon/ublock-origin/<br>
 **Microsoft Edge**: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak<br>
 **Opera**: https://addons.opera.com/extensions/details/ublock/<br>
 **Google Chrome**: https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh<br>
  - Забележка за Google Chrome: Понеже Google Chrome актуализираха техния Manifest и пълната версия на uBlock Origin вече не е налична на този браузър и има версия наречена uBlock Origin Litе,
-която също е от официалния разработчик. За повече информация относно тази промяна може да прочетете тук: https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22
+която също е от официалния разработчик. За повече информация относно тази промяна може да прочетете тук: https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22<br>
+
+**Документация на uBlock Origin**: https://github.com/gorhill/uBlock?tab=readme-ov-file#documentation
 
 ## ⭐ **Източници**
 https://github.com/gorhill/uBlock?tab=readme-ov-file#ublock-origin
