@@ -16,7 +16,7 @@
  2. Използване на **LSPosed** модул, който модифицира **Reddit** приложението в реално време, без да има нужда да се модифицира **APK** файлът
     - ❗ Този метод изисква да имате **Root** достъп на вашия **Android** както и настроен **LSPosed**
    
-## Вариант 1:
+## ⚙ Вариант 1:
  1. Изтегляме **Morphe Manager**
     - Отваряме **Github** хранилището на **Morphe Manager**: https://github.com/MorpheApp/morphe-manager
     - Отиваме долу, докато не намерим панела **Releases** и кликаме на последния **Release**
@@ -98,4 +98,7 @@
      - <img src="./resources/reddit-ads-mobile/image-23.jpg" width="200"><br>
      - Кликаме на него и ще ни се отварят допълнителните настройки
      - <img src="./resources/reddit-ads-mobile/image-24.jpg" width="200"><br>
-     - Насладете се :)
+     - Насладете се :)<br>
+     
+## ⭐ **Източници**
+Morphe: https://github.com/MorpheApp
