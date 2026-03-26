@@ -2,3 +2,4 @@
 
 ## Премахване на реклами:
  - [Премахване на реклами в браузъри](./removing-ads/browser-ads.md)
+ - [Премахване на реклами в Reddit приложението](./removing-ads/reddit-ads-mobile.md)
